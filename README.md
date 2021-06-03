@@ -1,5 +1,5 @@
 # PoseEstimation
-tham khảo tại: https://www.youtube.com/watch?v=We1uB79Ci-w&t=341s
+
 ## 1, cài đặt
 ### cài mediapipe và opencv 
 vào Command Promt chạy lệnh:
@@ -30,3 +30,6 @@ PoseEstimation - chương trình chính
 
 chạy chương trình bằng cách nhần "shift + enter" 
 (đợi tầm 4s để chương trình khởi động)
+
+
+tham khảo tại: https://www.youtube.com/watch?v=We1uB79Ci-w&t=341s
