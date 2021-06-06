@@ -4,6 +4,7 @@
 ### cài mediapipe và opencv 
 vào Command Promt chạy lệnh:
 pip install opencv-python
+
 pip install mediapipe opencv-python
 ### cài virtualenv
 python -m pip install --user virtualenv
